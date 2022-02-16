@@ -2,4 +2,4 @@ numpy
 mediapipe
 opencv-contrib-python
 opencv-python
-cv2
+opencv-python-headless
